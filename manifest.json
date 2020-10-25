@@ -1,0 +1,10 @@
+{
+    "name": "Custom New Page",
+    "version": "1.0",
+    "description": "Override New Page",
+    "permissions": [],
+    "chrome_url_overrides" : {
+        "newtab": "page.html"
+    },
+    "manifest_version":2
+}
